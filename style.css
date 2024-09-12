@@ -1,0 +1,60 @@
+.box{
+    font-size: 9px;
+    background: url(/img.png);
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 200px 200px;
+    padding-left: 100px;
+    padding-top: 170px;
+    padding-right: 100px;
+    position: absolute;
+    
+}
+.box1{
+    font-size: 9px;
+    background: url(/img\ \(1\).png);
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 200px 200px;
+    padding-left: 100px;
+    padding-top: 170px;
+    padding-right: 100px;
+    position: absolute;
+    right: 255px;
+}
+.box2{
+    font-size: 9px;
+    background: url(/img\ \(2\).png);
+    background-repeat: no-repeat;
+    color: white;
+    background-size: 200px 200px;
+    padding-left: 100px;
+    padding-top: 170px;
+    padding-right: 100px;
+    position: absolute;
+    right: 500px;
+}
+.text{
+    position: absolute;
+    top: 130px;
+    left: 60px;
+    background-color: #2F303ACC;
+    width: 137px;
+    height: 31px;
+}
+.text1{
+    position: absolute;
+    top: 130px;
+    left: 63px;
+    background-color: #2F303ACC;
+    width: 137px;
+    height: 31px;
+}
+.text2{
+    position: absolute;
+    top: 130px;
+    left: 63px;
+    background-color: #2F303ACC;
+    width: 137px;
+    height: 31px;
+}
